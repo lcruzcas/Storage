@@ -63,26 +63,4 @@ name_to_year={'sonali':2001,'yunchoo':2111,'kao':2001, 'ben':1540}
 name_to_all = birthdaycake(name_to_day, name_to_month, name_to_year)
 ```
 
-# Statistics Fall 2021
-```
-Mean	60.15
-Median	60
-Standard deviation	35.12
-```
-```
-|   Bin  | Frequency |
-|:------:|:---------:|
-|  0-10  |     60    |
-|  10-20 |     9     |
-|  20-30 |     7     |
-|  30-40 |     6     |
-|  40-50 |     53    |
-|  50-60 |     67    |
-|  60-70 |     4     |
-|  70-80 |     5     |
-|  80-90 |     33    |
-| 90-100 |     92    |
-```
-
-<img src="https://user-images.githubusercontent.com/50240718/133713976-1bf787f4-c4a1-42e6-9515-afca350618ce.png" width="500" height="400">
 
